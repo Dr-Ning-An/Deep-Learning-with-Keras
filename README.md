@@ -1,2 +1,2 @@
 # Keras_Tutorials
-This contains some neural networks examples for beginners
+Code for final project of this course https://www.coursera.org/learn/introduction-to-deep-learning-with-keras/
